@@ -1,0 +1,461 @@
+(int)PROP_CASINO_GAR1 // add MP0_ or MP1_ //Stores what other property player has purchased +_5 
+(int)PROP_CASINO_GAR1_VALUE // add MP0_ or MP1_ //Stores value other property player has purchased +_5 
+
+(packed)CASINOPSTAT_INT0 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT1 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT2 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT3 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT4 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT5 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT6 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT7 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT8 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT9 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT10 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT11 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT12 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT13 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT14 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT15 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT16 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT17 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT18 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT19 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT20 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT21 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT22 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT23 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT24 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT25 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT26 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT27 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT28 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT29 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT30 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT31 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT32 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT33 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT34 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT35 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT36 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT37 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT38 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT39 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT40 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT41 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT42 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT43 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT44 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT45 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT46 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT47 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT48 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT49 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT50 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT51 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT52 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT53 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT54 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT55 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT56 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT57 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT58 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT59 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT60 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT61 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT62 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT63 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT64 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT65 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT66 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT67 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT68 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT69 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT70 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT71 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT72 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT73 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT74 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT75 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT76 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT77 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT78 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT79 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT80 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT81 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT82 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT83 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT84 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT85 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT86 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT87 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT88 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT89 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT90 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT91 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT92 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT93 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT94 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT95 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT96 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT97 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT98 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT99 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT100 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT101 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT102 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT103 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT104 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT105 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT106 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT107 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT108 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT109 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT110 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT111 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT112 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT113 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT114 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT115 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT116 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT117 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT118 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT119 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT120 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT121 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT122 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT123 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT124 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT125 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT126 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT127 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT128 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT129 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT130 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT131 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT132 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT133 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT134 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT135 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT136 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT137 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT138 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT139 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT140 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT141 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT142 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT143 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT144 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT145 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT146 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT147 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT148 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT149 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT150 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT151 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT152 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT153 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT154 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT155 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT156 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT157 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+(packed)CASINOPSTAT_INT158 // add MP0_ or MP1_ //Character Stat with Packed integers index 32. Takes up to 8 integers 
+
+(packed)CASINOPSTAT_BOOL0 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL1 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL2 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL3 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL4 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL5 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+(packed)CASINOPSTAT_BOOL6 // add MP0_ or MP1_ //Character Stat with Packed booleans index 0. Takes up to 64 booleans. 
+
+(int)MPPLY_RCTTBESTTIME //RC Time Trials
+(int)MPPLY_RCTTCOMPLETEDWEEK //RC Time Trials
+(bool)MPPLY_RCTTDONESTATINIT //RC Time Trials
+
+
+(int)CASINO_CHIPS // add MP0_ or MP1_ //Casino chips the player owns 1 chip = 1 GTA $ 
+(int)MPPLY_CASINO_CHIPS_PUR_GD //Casino chips the player has purchased from the house shop this past gameday 
+(int)MPPLY_CASINO_CHIPS_PURTIM //Time of purchase for casino chips from the house 
+(int)MPPLY_CASINO_CHIPS_WON_GD //Casino chips the player has won by betting this past gameday 
+(int)MPPLY_CASINO_CHIPS_WONTIM //Time of winning a bet against the house 
+
+(int)CASINOAPT_OWNED // add MP0_ or MP1_ //Casino - Casino apartment owned 
+(int)CASINOAPT_MOD_INTERIORA // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_INTERIORB // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_C // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_D // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_E // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_F // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_G // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_H // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_I // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_J // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)CASINOAPT_MOD_K // add MP0_ or MP1_ //Casino - Casino apartment customisation 
+(int)KINGOFHILLWINS // add MP0_ or MP1_ //MP Char 0 - PERSONAL  -Record of most King Of The Hill wins in one arm wrestling sesson 
+    (int)KINGOFHILLLOSS // add MP0_ or MP1_ //MP Char 0 - PERSONAL  -Record of most King Of The Hill losses in one arm wrestling sesson 
+(int)COLLECTACTIONFIGHELPCOUNT // add MP0_ or MP1_ //times displayed action figure help 
+(int)CASINO_NOTIFICATIONS // add MP0_ or MP1_ //Casino notifications count 
+(int)SHOPFM_HAIRDO_CASINO_APT // add MP0_ or MP1_ //Shop stat for Casino Apt Hairdo Shop 
+(int)COLLECTACTIONCARDHELPCONT // add MP0_ or MP1_ //times displayed playing help 
+
+(bool)AWD_FIRST_TIME1 // add MP0_ or MP1_ //Complete Casino - Rescue for the first time
+(bool)AWD_FIRST_TIME2 // add MP0_ or MP1_ //Complete Casino - Brawl for the first time
+(bool)AWD_FIRST_TIME3 // add MP0_ or MP1_ //Complete Casino - Meeting for the first time
+(bool)AWD_FIRST_TIME4 // add MP0_ or MP1_ //Complete Casino - Oil Demolition for the first time
+(bool)AWD_FIRST_TIME5 // add MP0_ or MP1_ //Complete Casino - Defend for the first time
+(bool)AWD_FIRST_TIME6 // add MP0_ or MP1_ //Complete Casino - Finale for the first time
+(bool)AWD_ALL_IN_ORDER // add MP0_ or MP1_ //Complete all Casino Story Missions in order
+(bool)AWD_SUPPORTING_ROLE // add MP0_ or MP1_ //Complete all missions as a Crew Member
+(bool)AWD_LEADER // add MP0_ or MP1_ //Complete all missions as Leader
+(int)AWD_ODD_JOBS // add MP0_ or MP1_ //Complete X freemode missions for the Casino Manager and earn $X
+(bool)AWD_SURVIVALIST // add MP0_ or MP1_ //Complete a Casino Story Mission without losing a life
+(bool)HAS_TAKEN_PEYOTE_BEFORE // add MP0_ or MP1_ //Has the player taken peyote before 
+
+(int)SHOPFM_CLOTHES_CASINO // add MP0_ or MP1_ //Shop stat for casino clothes shop 
+(int)LUXSUITETABLESETTING // add MP0_ or MP1_ //Setting for PI menu Lux Suite dealer table 
+(int)MPPLY_CASINO_MEM_BONUS //Count of time we have awarded the player bonus chips for purchasing the membership 
+
+(int)DISCOUNT_PLANE_SITE // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+(int)DISCOUNT_BOAT_SITE // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+(int)DISCOUNT_CAR_SITE // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+(int)DISCOUNT_CAR_SITE2 // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+(int)DISCOUNT_MIL_SITE // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+(int)DISCOUNT_BIKE_SITE // add MP0_ or MP1_ //Posix time for Lucky 7 vehicle purchase discount 
+
+(int)INSIDETRACK_BET_HORSEID // add MP0_ or MP1_ //Inside Track Bet - horseID
+(int)INSIDETRACK_BET_CHIPS // add MP0_ or MP1_ //Inside Track Bet - chips
+(int)INSIDETRACK_BET_RESULT // add MP0_ or MP1_ //Inside Track Bet - result
+(int)INSIDETRACK_BET_FINISHTIME // add MP0_ or MP1_ //Inside Track Bet - finish time
+(int)INSIDETRACK_BET_GAMESEED // add MP0_ or MP1_ //Inside Track Bet - game seed
+(int)VCM_FLOW_PROGRESS // add MP0_ or MP1_ //i.e. flow process 
+(int)CASINO_MISSION_CDTIMER // add MP0_ or MP1_ //HEIST COOLDOWN TIMERS 
+
+(int)CASINO_APT_DECORATION_1 // add MP0_ or MP1_ // store casino decoration items1  
+(int)CASINO_APT_DECORATION_2 // add MP0_ or MP1_ // store casino decoration items2  
+(int)CASINO_APT_DECORATION_3 // add MP0_ or MP1_ // store casino decoration items3  
+(int)CASINO_APT_DECORATION_4 // add MP0_ or MP1_ // store casino decoration items4  
+(int)CASINO_APT_DECORATION_5 // add MP0_ or MP1_ // store casino decoration items5  
+(int)CASINO_APT_DECORATION_6 // add MP0_ or MP1_ // store casino decoration items6  
+(int)CASINO_APT_DECORATION_7 // add MP0_ or MP1_ // store casino decoration items7  
+(int)CASINO_APT_DECORATION_8 // add MP0_ or MP1_ // store casino decoration items8  
+(int)CASINO_APT_DECORATION_9 // add MP0_ or MP1_ // store casino decoration items9  
+(int)CASINO_APT_DECORATION_10 // add MP0_ or MP1_ // store casino decoration items10  
+(int)CASINO_APT_DECORATION_11 // add MP0_ or MP1_ // store casino decoration items11  
+(int)CASINO_APT_DECORATION_12 // add MP0_ or MP1_ // store casino decoration items12  
+(int)CASINO_APT_DECORATION_13 // add MP0_ or MP1_ // store casino decoration items13  
+
+(int)VCM_STORY_PROGRESS // add MP0_ or MP1_ //i.e. flow process 
+
+(int)MPPLY_CAS_TIME_GMBLNG_0 //Casino time spent gambling stat 0 
+(int)MPPLY_CAS_TIME_GMBLNG_1 //Casino time spent gambling stat 1 
+(int)MPPLY_CAS_TIME_GMBLNG_2 //Casino time spent gambling stat 2 
+(int)MPPLY_CAS_TIME_GMBLNG_3 //Casino time spent gambling stat 3 
+(int)MPPLY_CAS_TIME_GMBLNG_4 //Casino time spent gambling stat 4 
+(int)MPPLY_CAS_TIME_GMBLNG_5 //Casino time spent gambling stat 5 
+(int)MPPLY_CAS_TIME_GMBLNG_6 //Casino time spent gambling stat 6 
+(int)MPPLY_CAS_TIME_GMBLNG_7 //Casino time spent gambling stat 7 
+(int)MPPLY_CAS_TIME_GMBLNG_8 //Casino time spent gambling stat 8 
+(int)MPPLY_CAS_TIME_GMBLNG_9 //Casino time spent gambling stat 9 
+
+(int)MPPLY_CAS_TIME_PLYING_0 //Casino time spent playing GTAO stat 0 
+(int)MPPLY_CAS_TIME_PLYING_1 //Casino time spent playing GTAO stat 1 
+(int)MPPLY_CAS_TIME_PLYING_2 //Casino time spent playing GTAO stat 2 
+(int)MPPLY_CAS_TIME_PLYING_3 //Casino time spent playing GTAO stat 3 
+(int)MPPLY_CAS_TIME_PLYING_4 //Casino time spent playing GTAO stat 4 
+(int)MPPLY_CAS_TIME_PLYING_5 //Casino time spent playing GTAO stat 5 
+(int)MPPLY_CAS_TIME_PLYING_6 //Casino time spent playing GTAO stat 6 
+(int)MPPLY_CAS_TIME_PLYING_7 //Casino time spent playing GTAO stat 7 
+(int)MPPLY_CAS_TIME_PLYING_8 //Casino time spent playing GTAO stat 8 
+(int)MPPLY_CAS_TIME_PLYING_9 //Casino time spent playing GTAO stat 9 
+
+(int)MPPLY_CASINO_BAN_TIME //Casino posix time the player was banned from gambling 
+(int)MPPLY_CASINO_GMBLNG_GD //The POSIX time for the day on which the player gambling tracking started 
+(int)MPPLY_CAS_CUR_GMBLNG_GD //The current gameday for which we are tracking gambling play time 
+(int)MPPLY_CAS_CUR_GMBLNG_PX //The POSIX time for the time at which gambling stats were last updated 
+
+(int)MPPLY_CAS_GMBLNG_L24_PX //The POSIX time for the time at which we started tracking the last 24 hours of gambling time 
+(int)MPPLY_CAS_GMBLNG_L24 //Casino time spent gambling in the last 24 hours stat 
+(int)MPPLY_CAS_GMBLNG_TRHSLD //Counter for the number of times we've gambled for at least 10 hours in a 24 hour period 
+(int)MPPLY_CAS_GMBLNG_L24_1 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_2 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_3 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_4 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_5 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_6 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_7 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_GMBLNG_L24_8 //Casino time spent gambling in the last 24 hours stat - Moving track 
+(int)MPPLY_CAS_CUR_GMBLNG_HR //The current hour for which we are tracking gambling play time - 24hr track 
+
+(int)ACTION_FIG_COLLECTED // add MP0_ or MP1_ //Collectables  
+(int)PLAYING_CARD_COLLECTED // add MP0_ or MP1_ //Collectables  
+(int)PEYOTE_COLLECTED // add MP0_ or MP1_ //Collectables  
+
+(bool)CAS_VEHICLE_REWARD // add MP0_ or MP1_ //Vehicle reward done 
+
+(int)MPPLY_CAS_24H_GMBLNG_PX //The POSIX time for the time at which 24hr gambling tracking stats were last updated 
+
+(int)DLC_APPAREL_ACQUIRED_176 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_177 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_178 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_179 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_180 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_181 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_182 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_183 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_184 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_185 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_186 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_187 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_188 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_189 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_190 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_191 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_192 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_193 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_194 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_195 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_196 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_197 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_198 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_199 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_ACQUIRED_200 // add MP0_ or MP1_ //Shop ped apparel save data 
+
+(int)DLC_APPAREL_USED_176 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_177 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_178 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_179 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_180 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_181 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_182 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_183 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_184 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_185 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_186 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_187 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_188 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_189 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_190 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_191 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_192 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_193 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_194 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_195 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_196 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_197 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_198 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_199 // add MP0_ or MP1_ //Shop ped apparel save data 
+(int)DLC_APPAREL_USED_200 // add MP0_ or MP1_ //Shop ped apparel save data 
+
+(int)LUCKY_WHEEL_USAGE // add MP0_ or MP1_ //Character stat posix time for Lucky Wheel usage 
+(int)LW_PODIUM_VEH_WON // add MP0_ or MP1_ //Character stat posix time for Lucky Wheel podium vehicle 
+(int)MPPLY_LW_PODIUM_VEH_MODEL //player stat or Lucky Wheel podium vehicle model 
+(int)MPPLY_LUCKY_WHEEL_USAGE //player stat posix time for Lucky Wheel usage 
+(int)MPPLY_LW_PODIUM_VEH_WON //player stat posix time for Lucky Wheel podium vehicle 
+(bool)DISPLAY_VC_VEH_HELP // add MP0_ or MP1_ //Casino Vehicles  
+(int)CASINO_CLOTHES_TIME // add MP0_ or MP1_ //Posix time for casino clothes shop time 
+
+(bool)HELPKRIEGER // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPLOCUST // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPNOVAK // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPZORRUSSO // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPGAUNTLET3 // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPZION3 // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPNEBULA // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPHELLION // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPRROCKET // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPPEYOTE2 // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPGAUNTLET4 // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPJUGULAR // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPS80 // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPEMERUS // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPNEO // add MP0_ or MP1_ //Casino Vehicles  
+(bool)HELPDYNASTY // add MP0_ or MP1_ //Casino Vehicles  
+
+(int)SCGW_NUM_WINS_GANG_0 // add MP0_ or MP1_ //Arcade Stats  
+(int)SCGW_NUM_WINS_GANG_1 // add MP0_ or MP1_ //Arcade Stats  
+(int)SCGW_NUM_WINS_GANG_2 // add MP0_ or MP1_ //Arcade Stats  
+(int)SCGW_NUM_WINS_GANG_3 // add MP0_ or MP1_ //Arcade Stats  
+(int)IAP_MAX_MOON_DIST // add MP0_ or MP1_ //Arcade Stats  
+(bool)SCGW_WON_NO_DEATHS // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_CHALLENGE_0 // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_CHALLENGE_1 // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_CHALLENGE_2 // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_CHALLENGE_3 // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_CHALLENGE_4 // add MP0_ or MP1_ //Arcade Stats  
+(bool)IAP_GOLD_TANK // add MP0_ or MP1_ //Arcade Stats  
+(bool)VCM_FLOW_CS_RSC_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(bool)VCM_FLOW_CS_BWL_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(bool)VCM_FLOW_CS_MTG_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(bool)VCM_FLOW_CS_OIL_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(bool)VCM_FLOW_CS_DEF_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(bool)VCM_FLOW_CS_FIN_SEEN // add MP0_ or MP1_ //Intro Cutscenes 
+(int)LAST_ANIMAL // add MP0_ or MP1_ //last animal 
+
+(int)IAP_INITIALS_0 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_1 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_2 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_3 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_4 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_5 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_6 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_7 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_8 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_INITIALS_9 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_0 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_1 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_2 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_3 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_4 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_5 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_6 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_7 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_8 // add MP0_ or MP1_ //Arcade Games  
+(int)IAP_SCORE_9 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_0 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_1 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_2 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_3 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_4 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_5 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_6 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_7 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_8 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_INITIALS_9 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_0 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_1 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_2 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_3 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_4 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_5 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_6 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_7 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_8 // add MP0_ or MP1_ //Arcade Games  
+(int)SCGW_SCORE_9 // add MP0_ or MP1_ //Arcade Games  
+(int)TATTOO_FM_UNLOCKS_39 // add MP0_ or MP1_ //MP Char 0 - Tattoos Unlocks 35 
+(int)TATTOO_FM_CURRENT_39 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 35 
+(int)TATTOO_FM_VIEWED_39 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 35 
+(int)TATTOO_FM_UNLOCKS_40 // add MP0_ or MP1_ //MP Char 0 - Tattoos Unlocks 36 
+(int)TATTOO_FM_CURRENT_40 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 36 
+(int)TATTOO_FM_VIEWED_40 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 36 
+(int)TATTOO_FM_UNLOCKS_41 // add MP0_ or MP1_ //MP Char 0 - Tattoos Unlocks 37 
+(int)TATTOO_FM_CURRENT_41 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 37 
+(int)TATTOO_FM_VIEWED_41 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 37 
+(int)TATTOO_FM_UNLOCKS_42 // add MP0_ or MP1_ //MP Char 0 - Tattoos Unlocks 38 
+(int)TATTOO_FM_CURRENT_42 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 38 
+(int)TATTOO_FM_VIEWED_42 // add MP0_ or MP1_ //MP Char 0 - Current Tattoos 38 
+
+(bool)MPPLY_CROSSPLATCARD //Stat to track if headshot challenge is complete to unlock weapon in bob 
+(bool)MPPLY_CROSSPLATCARD2 //Stat to track if headshot challenge is complete to unlock weapon in bob 
+
+(int)MPPLY_CHIPS_COL_TIME //Casino chips the player collected for free - Time this was last collected 
+
+(int)ADMIN_CLOTHES_RM_BS_27 // add MP0_ or MP1_ //REMOVE THE TANK BY THE SCADMIN 
+(int)ADMIN_CLOTHES_GV_BS_27 // add MP0_ or MP1_ //REMOVE THE TANK BY THE SCADMIN 
+(int)ADMIN_CLOTHES_RM_BS_28 // add MP0_ or MP1_ //REMOVE THE TANK BY THE SCADMIN 
+(int)ADMIN_CLOTHES_GV_BS_28 // add MP0_ or MP1_ //REMOVE THE TANK BY THE SCADMIN 
+
+(int)ADMIN_DECORATION_GV_BS_1 // add MP0_ or MP1_ //Give decoration items from SCAdmin 
+(u64)ADMIN_DECORATION_GV_POSIX // add MP0_ or MP1_ //Posix of when the last give/remove decoration through SCADMIN was applied. 
+
+(int)LW_NEW_POD_VEH_ANNOUNCE // add MP0_ or MP1_ //store lucky wheel new podium vehicle model
